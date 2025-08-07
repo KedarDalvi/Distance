@@ -3,9 +3,7 @@
 #include "point.h"
 
 double distance(Point a, Point b) {
-    int dx = a.x - b.x;
-    int dy = a.y - b.y;
-    return sqrt(dx * dx + dy * dy);
+    return abs(a.x - b.x) + abs(a.y - b.y);
 }
 
 int main() {
