@@ -1,0 +1,9 @@
+A	Distance
+M	distance.c
+A	subtask2.1.3.txt
+A	subtask2.1.4.txt
+A	subtask2.1.5.txt
+A	subtask2.2.2.txt
+A	subtask2.2.3.txt
+A	subtask2.2.5.txt
+Your branch is up to date with 'origin/manhattan'.
